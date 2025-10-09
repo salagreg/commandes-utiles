@@ -1,11 +1,13 @@
 ## Installer la bibliothèque de requêtes :
 
-- _Vérifier l'installation_ : *python3 -m pip show requests*
-- _Installer la bibliothèque_ : *python3 -m pip install requests*
+- *Vérifier l'installation* : python3 -m pip show requests
+- *Installer la bibliothèque* : python3 -m pip install requests
 
 ## Développer une API simple à l'aide de Python avec Flask :
-- _Créer un environnement_ : mkdir myproject
+- *Créer un environnement* : mkdir myproject
                            cd myproject
                            python3 -m venv .venv
-- _Activer l'environnement_ : . .venv/bin/activate
-- _Installer Framework Flask_ : pip install Flask
+- *Activer l'environnement* : . .venv/bin/activate
+- *Installer Framework Flask* : pip install Flask
+- *Installer Flask-HTTPAuth* : pip install Flask-HTTPAuth
+- *Installer Flask-JWT-Extended* : pip install Flask-JWT-Extended
