@@ -11,3 +11,6 @@
 - *Installer Framework Flask* : pip install Flask
 - *Installer Flask-HTTPAuth* : pip install Flask-HTTPAuth
 - *Installer Flask-JWT-Extended* : pip install Flask-JWT-Extended
+
+## Créer une clé secrète :
+*commande terminal* : python3 -c "import secrets; print(secrets.token_urlsafe(32))"
