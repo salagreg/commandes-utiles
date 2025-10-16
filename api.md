@@ -14,3 +14,6 @@
 
 ## Créer une clé secrète :
 *commande terminal* : python3 -c "import secrets; print(secrets.token_urlsafe(32))"
+
+## Installer Swagger :
+*commande terminal* : python3 -m pip install flasgger
