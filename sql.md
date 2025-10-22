@@ -4,9 +4,14 @@
 - brew install mysql
 - brew tap homebrew/services
 
-*Démarrer MySQL :*   brew services start mysql
-*Si le service est déjà lancé, tapez la commande :*    brew services restart mysql
-*Vérifier qu’il tourne avec :*    brew services list et/ou mysql -V
+*Démarrer MySQL :*   
+brew services start mysql
+
+*Si le service est déjà lancé, tapez la commande :*
+brew services restart mysql
+
+*Vérifier qu’il tourne avec :*
+brew services list et/ou mysql -V
 
 ## Tester MySQL : 
 
