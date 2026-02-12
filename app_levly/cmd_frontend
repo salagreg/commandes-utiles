@@ -1,0 +1,2 @@
+Faire les appels API au backend : Installer axios avec la commande -> npm i axios
+Stocker le token localement : npm i @react-native-async-storage/async-storage
